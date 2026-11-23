@@ -1,0 +1,10 @@
+# Compiled C++ binaries and objects
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+
+# IDE & editor metadata
+.vscode/
+.idea/

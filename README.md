@@ -24,16 +24,16 @@ Game Snake berbasis konsol Windows yang dibuat dengan C++. Tampilannya berwarna,
 
 Dengan g++:
 ```
-g++ snake_neon_compat.cpp -o snake_neon.exe
-snake_neon.exe
+g++ Game_Ular.cpp -o Game_Ular.exe
+Game_Ular.exe
 ```
 
-Dengan Falcon C++: buka `snake_neon_compat.cpp`, lalu tekan **Compile & Run**.
+Dengan Falcon C++: buka `Game_Ular.cpp`, lalu tekan **Compile & Run**.
 
 > Disarankan menjalankan di CMD atau PowerShell klasik agar ukuran jendela dan warna tampil dengan benar.
 
 ## Struktur File
-- `snake_neon_compat.cpp` : kode sumber utama (kompatibel dengan compiler lama)
+- `Game_Ular.cpp` : kode sumber utama game Snake Neon
 - `highscore.txt` : dibuat otomatis setelah game pertama selesai
 
 ## Catatan
